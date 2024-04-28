@@ -1,7 +1,5 @@
 import os
 
-aws_access_key_id = "AKIA6ODU5DHTS3UIPEVK"
-aws_secret_access_key = "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"
 
 def gimme_shell():
     # RCE
